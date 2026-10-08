@@ -1,0 +1,31 @@
+{
+  "format": "exact-physics-planner",
+  "version": 9,
+  "params": {
+    "shot_center": -2.5,
+    "shot_scale": 1.2,
+    "future_center": -1.5,
+    "future_scale": 1.5,
+    "discount": 0.93,
+    "hold_base": 0.05,
+    "hold_progress": 0.45,
+    "pressure": 0.25,
+    "clock": 0.02,
+    "turnover_base": -0.15,
+    "turnover_depth": -0.35,
+    "guard_distance": 10.0,
+    "guard_weight": 0.012,
+    "press_bonus": 0.08,
+    "tackle_bonus": 0.3,
+    "danger_floor": 0.0,
+    "time_budget": 0.5,
+    "lookahead_weight": 0.6,
+    "keeper_depth": 12.0,
+    "keeper_mix": 0.5,
+    "counter_weight": 0.5,
+    "commit_penalty": 2.0,
+    "learn_rate": 0.8,
+    "theta_min": -5.0,
+    "theta_max": 0.0
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "ML4FIFA",
+  "command": [
+    "python",
+    "-m",
+    "team_bot.bot",
+    "--model",
+    "team_bot/models/planner_params.json"
+  ]
+}
